@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#!/usr/bin/node
 /* computes the number of tasks completed by user id */
 
 const request = require('request');

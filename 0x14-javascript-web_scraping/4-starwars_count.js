@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#!/usr/bin/node
 /*
  * prints the number of movies where the character “Wedge Antilles” is present
  */
